@@ -1,0 +1,38 @@
+{
+    "user1": {
+        "name": "Mourad",
+        "age": "31",
+        "status": "Single",
+        "job": "QA Engineer"
+    },
+    "user2": {
+        "name": "Zaki",
+        "age": "26",
+        "status": "Single",
+        "job": "Frontend Engineer"
+    },
+    "user3": {
+        "name": "Alex Sanchez",
+        "age": "35",
+        "status": "Divorced",
+        "job": "Civil Engineer"
+    },
+    "user4": {
+        "name": "Lara Croft",
+        "age": "25",
+        "status": "Married",
+        "job": "Unemployed"
+    },
+    "user5": {
+        "name": "Anna Maria",
+        "age": "18",
+        "status": "Single",
+        "job": "Student"
+    },
+    "user6": {
+        "name": "Roberto Fernandez",
+        "age": "37",
+        "status": "Single",
+        "job": "Doctor"
+    }
+}

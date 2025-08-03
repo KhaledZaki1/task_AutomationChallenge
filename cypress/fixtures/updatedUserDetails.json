@@ -1,0 +1,16 @@
+{
+    "updatedUser1": {
+        "oldName": "Lara Croft",
+        "newName": "Khaled",
+        "newAge": "32",
+        "newStatus": "Married",
+        "newJob": "Senior Test Automation Engineer"
+    },
+    "updatedUser2": {
+        "oldName": "Anna Maria",
+        "newName": "Hazem",
+        "newAge": "27",
+        "newStatus": "Married",
+        "newJob": "React Frontend Engineer"
+    }
+}
